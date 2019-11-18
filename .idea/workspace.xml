@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9429a0aa-e817-4073-bfd3-48a2ce596e2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/secondpractice/practice8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/secondpractice/practice8/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +28,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../concurrency_practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -54,26 +56,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondpractice.practice5.Main" />
-      <module name="advanced_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secondpractice.practice5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondpractice.practice6.Main" />
+      <option name="MAIN_CLASS_NAME" value="thirdtestB.test4.Main" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondpractice.practice6.*" />
+          <option name="PATTERN" value="thirdtestB.test4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +71,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondpractice.practice7.Main" />
+      <option name="MAIN_CLASS_NAME" value="thirdtestB.test2.Main" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondpractice.practice7.*" />
+          <option name="PATTERN" value="thirdtestB.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +84,18 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondpractice.practice8.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="advanced_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdtestB.test1.Main" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondpractice.practice8.*" />
+          <option name="PATTERN" value="thirdtestB.test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondpractice.practice4.Main" />
+      <option name="MAIN_CLASS_NAME" value="thirdtestB.test5.Main" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondpractice.practice4.*" />
+          <option name="PATTERN" value="thirdtestB.test5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +142,17 @@
       <workItem from="1572228859289" duration="615000" />
       <workItem from="1572273605648" duration="608000" />
       <workItem from="1572317215515" duration="7451000" />
+      <workItem from="1572365036295" duration="1126000" />
+      <workItem from="1572366321354" duration="83000" />
+      <workItem from="1572420458056" duration="84000" />
+      <workItem from="1572483278568" duration="16034000" />
+      <workItem from="1572518105119" duration="18811000" />
+      <workItem from="1572539388658" duration="638000" />
+      <workItem from="1572609966554" duration="191000" />
+      <workItem from="1573114354271" duration="23000" />
+      <workItem from="1573116842042" duration="1335000" />
+      <workItem from="1573469303516" duration="5246000" />
+      <workItem from="1574080870642" duration="1300000" />
     </task>
     <servers />
   </component>
