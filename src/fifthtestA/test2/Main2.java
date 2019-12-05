@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
+ * 时间分隔
+ * 1
+ * 6
+ * 350 540 630 940 1000 1350
+ * 750 920 1440 1330 1200 2100
  * @Author: wenjun
  * @Date: 2019/12/4 0:58
  */

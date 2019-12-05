@@ -3,21 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9429a0aa-e817-4073-bfd3-48a2ce596e2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/META-INF/advanced_algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/META-INF/advanced_algorithm.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/fifthtestA/test1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/fifthtestA/test1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/forthtestA/test4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/forthtestA/test4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/forthtestA/test4/RightMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fifthtestA/test1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestA/test1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/forthtestA/test4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forthtestA/test4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/forthtestA/test4/RightMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secondpractice/practice7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondpractice/practice7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirdtestA/test5/RightAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdtestA/test5/RightAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestA/test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestA/test2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestA/test2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestA/test2/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestA/test3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestA/test3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestA/test4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestA/test4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestB/test1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestB/test1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestB/test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestB/test2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firsttest/test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firsttest/test2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forthtestB/test1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forthtestB/test1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +217,7 @@
       <workItem from="1575386165145" duration="6387000" />
       <workItem from="1575425797291" duration="6061000" />
       <workItem from="1575459367562" duration="4708000" />
-      <workItem from="1575527697578" duration="579000" />
+      <workItem from="1575527697578" duration="1325000" />
     </task>
     <servers />
   </component>
@@ -256,25 +250,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="513" y="202" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575378666342" />
-    <state width="1172" height="157" key="GridCell.Tab.0.bottom" timestamp="1575476626723">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="928" height="115" key="GridCell.Tab.0.bottom" timestamp="1575529025592">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="927" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="928" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575529025592" />
     <state width="1172" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
-    <state width="1172" height="157" key="GridCell.Tab.0.center" timestamp="1575476626723">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="928" height="115" key="GridCell.Tab.0.center" timestamp="1575529025592">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="927" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="928" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575529025592" />
     <state width="1172" height="157" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
-    <state width="1172" height="157" key="GridCell.Tab.0.left" timestamp="1575476626723">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="928" height="115" key="GridCell.Tab.0.left" timestamp="1575529025592">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="927" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="928" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575529025592" />
     <state width="1172" height="157" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
-    <state width="1172" height="157" key="GridCell.Tab.0.right" timestamp="1575476626723">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="928" height="115" key="GridCell.Tab.0.right" timestamp="1575529025592">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="927" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="928" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575529025592" />
     <state width="1172" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
     <state width="1688" height="209" key="GridCell.Tab.1.bottom" timestamp="1575133050405">
       <screen x="0" y="0" width="1920" height="1040" />

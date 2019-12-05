@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
+ * 硬币最小数量
  * @Author: wenjun
  * @Date: 2019/11/28 9:20
  */

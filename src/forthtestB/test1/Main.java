@@ -3,6 +3,14 @@ package forthtestB.test1;
 import java.util.Scanner;
 
 /**
+ * 是否能通过考试
+ * 1
+ * 5 40 21
+ * 12 10
+ * 16 10
+ * 20 10
+ * 24 10
+ * 8 3
  * @Author: wenjun
  * @Date: 2019/11/27 23:43
  */
