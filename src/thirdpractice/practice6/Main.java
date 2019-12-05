@@ -4,6 +4,13 @@ import java.util.*;
 
 /**
  * 图的广度优先遍历
+ * 1
+ * 4 a
+ * a b c d
+ * a 0 1 1 0
+ * b 1 0 1 0
+ * c 1 1 0 1
+ * d 0 0 1 0
  * @Author: wenjun
  * @Date: 2019/11/19 0:50
  */

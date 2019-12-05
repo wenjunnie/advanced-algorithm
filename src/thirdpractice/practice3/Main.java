@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 /**
  * 希尔排序
+ * 1
+ * 49 38 65 97 76 13 27 49 55 4
+ * 5 3
  * @Author: wenjun
  * @Date: 2019/11/19 14:09
  */

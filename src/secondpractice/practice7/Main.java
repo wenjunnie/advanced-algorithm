@@ -100,7 +100,7 @@ public class Main {
 //        arr[left] = key;
 //        if (left-1 > l)
 //            result(arr,l,left-1);
-//        if (right+1 < r)
+//        if (left+1 < r)
 //            result(arr,left+1,r);
 //    }
 }

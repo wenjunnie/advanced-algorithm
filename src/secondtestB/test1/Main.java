@@ -49,7 +49,7 @@ public class Main {
         }
 
         for (int i = 0; i < arr2.length; i++) {
-            if(i != arr2.length-1) {
+            if (i != arr2.length-1) {
                 long x = stack1.size() - arr2[i];
                 while (x -- > 0) {
                     long num = stack1.pop();

@@ -6,6 +6,13 @@ import java.util.Scanner;
 
 /**
  * 图的深度优先遍历，打印最大深度
+ * 1
+ * 4 a
+ * a b c d
+ * a 0 1 1 0
+ * b 1 0 1 0
+ * c 1 1 0 1
+ * d 0 0 1 0
  * @Author: wenjun
  * @Date: 2019/11/19 14:33
  */

@@ -4,6 +4,8 @@ import java.util.*;
 
 /**
  * 求拓扑排序解的个数
+ * 1
+ * a c,b c,c d,d e,d f,e g,f g
  * @Author: wenjun
  * @Date: 2019/11/19 14:52
  */

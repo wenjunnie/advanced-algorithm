@@ -3,6 +3,10 @@ package thirdpractice.practice4;
 import java.util.Scanner;
 
 /**
+ * 棋盘覆盖
+ * 1
+ * 1 1 1
+ * 0 0
  * @Author: wenjun
  * @Date: 2019/11/20 23:32
  */

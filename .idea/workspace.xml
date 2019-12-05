@@ -3,12 +3,43 @@
   <component name="ChangeListManager">
     <list default="true" id="9429a0aa-e817-4073-bfd3-48a2ce596e2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/META-INF/advanced_algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/META-INF/advanced_algorithm.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/fifthtestA/test1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/fifthtestA/test1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/forthtestA/test4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced_algorithm/forthtestA/test4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced_algorithm/forthtestA/test4/RightMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifthtestA/test1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifthtestA/test1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forthtestA/test4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forthtestA/test4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forthtestA/test4/RightMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondpractice/practice7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondpractice/practice7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdpractice/practice7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdpractice/practice7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thirdtestA/test5/RightAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirdtestA/test5/RightAnswer.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="193" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,10 +55,15 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../concurrency_practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -35,87 +71,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="secondpractice.practice7" />
+      <recent name="secondpractice.practice1" />
       <recent name="thirdpractice.practice1" />
       <recent name="secondpractice.practice8" />
-      <recent name="secondpractice.practice7" />
       <recent name="secondpractice.practice6" />
-      <recent name="practice2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JetBrains\IdeaProjects\advanced_algorithm\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forthtestB.test1.Main" />
-      <module name="advanced_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="forthtestB.test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fifthtestA.test4.Main" />
-      <module name="advanced_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fifthtestA.test4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fifthtestA.test2.Main" />
-      <module name="advanced_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fifthtestA.test2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fifthtestA.test3.Main" />
-      <module name="advanced_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fifthtestA.test3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdpractice.practice4.Main" />
+      <option name="MAIN_CLASS_NAME" value="thirdpractice.practice2.Main" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdpractice.practice4.*" />
+          <option name="PATTERN" value="thirdpractice.practice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdpractice.practice1.Main" />
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondpractice.practice7.Main2" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdpractice.practice1.*" />
+          <option name="PATTERN" value="secondpractice.practice7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +108,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forthtestA.test4.Main" />
+    <configuration name="Main2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondpractice.practice6.Main2" />
       <module name="advanced_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="forthtestA.test4.*" />
+          <option name="PATTERN" value="secondpractice.practice6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firsttest.test4.Main2" />
+      <module name="advanced_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firsttest.test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondpractice.practice1.test" />
+      <module name="advanced_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secondpractice.practice1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +149,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2 (1)" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main2 (2)" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -199,7 +209,21 @@
       <workItem from="1574651620748" duration="644000" />
       <workItem from="1574781854255" duration="2568000" />
       <workItem from="1574869324048" duration="2325000" />
-      <workItem from="1574903930755" duration="6913000" />
+      <workItem from="1574903930755" duration="7514000" />
+      <workItem from="1574933416016" duration="5031000" />
+      <workItem from="1575035103795" duration="199000" />
+      <workItem from="1575035703230" duration="4038000" />
+      <workItem from="1575097014741" duration="8243000" />
+      <workItem from="1575124972596" duration="5646000" />
+      <workItem from="1575278532191" duration="849000" />
+      <workItem from="1575279503646" duration="19000" />
+      <workItem from="1575288959472" duration="5723000" />
+      <workItem from="1575378642693" duration="22000" />
+      <workItem from="1575382728241" duration="1088000" />
+      <workItem from="1575386165145" duration="6387000" />
+      <workItem from="1575425797291" duration="6061000" />
+      <workItem from="1575459367562" duration="4708000" />
+      <workItem from="1575527697578" duration="579000" />
     </task>
     <servers />
   </component>
@@ -219,11 +243,83 @@
       </map>
     </option>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575279437177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1575279437177" />
+    <state x="578" y="319" width="441" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575461611452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="319" width="441" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1575461611452" />
+    <state x="513" y="202" key="FileChooserDialogImpl" timestamp="1575378666342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="202" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575378666342" />
+    <state width="1172" height="157" key="GridCell.Tab.0.bottom" timestamp="1575476626723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="1172" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
+    <state width="1172" height="157" key="GridCell.Tab.0.center" timestamp="1575476626723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="1172" height="157" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
+    <state width="1172" height="157" key="GridCell.Tab.0.left" timestamp="1575476626723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="1172" height="157" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
+    <state width="1172" height="157" key="GridCell.Tab.0.right" timestamp="1575476626723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575463182425" />
+    <state width="1172" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575476626723" />
+    <state width="1688" height="209" key="GridCell.Tab.1.bottom" timestamp="1575133050405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575109478415" />
+    <state width="1688" height="209" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575133050405" />
+    <state width="1688" height="209" key="GridCell.Tab.1.center" timestamp="1575133050405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575109478415" />
+    <state width="1688" height="209" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575133050405" />
+    <state width="1688" height="209" key="GridCell.Tab.1.left" timestamp="1575133050405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575109478414" />
+    <state width="1688" height="209" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575133050405" />
+    <state width="1688" height="209" key="GridCell.Tab.1.right" timestamp="1575133050405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575109478415" />
+    <state width="1688" height="209" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575133050405" />
+    <state x="660" y="254" width="647" height="786" key="find.popup" timestamp="1575387821892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="254" width="647" height="786" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575387821892" />
+    <state x="847" y="244" key="run.anything.popup" timestamp="1575128074300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="847" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575128074300" />
+    <state x="870" y="213" width="672" height="538" key="search.everywhere.popup" timestamp="1575428191650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="870" y="213" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575428191650" />
+    <state x="1087" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575047095730" />
+  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="Application">
         <watch expression="arr[row]" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/advanced_algorithm$Main.ic" NAME="Main Coverage Results" MODIFIED="1575106229570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>secondtestB.test2.*</FILTER>
+    </SUITE>
   </component>
 </project>

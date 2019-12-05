@@ -1,8 +1,5 @@
 package forthtestA.test4;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -11,61 +8,42 @@ import java.util.Scanner;
  */
 public class Main {
 
-    static List<Integer> list = new ArrayList<>();
-    static boolean[] flag;
-    static boolean[] buy;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int first = sc.nextInt();
+        int first = Integer.parseInt(sc.nextLine());
         while (first -- > 0) {
-            int second = sc.nextInt();
-            flag = new boolean[second+2];
-            buy = new boolean[3];
-            int[][] arr = new int[second][3];
-            for (int i = 0; i < second; i++) {
-                for (int j = 0; j < 3; j++) {
-                    arr[i][j] = sc.nextInt();
-                }
+            int row = Integer.parseInt(sc.nextLine());
+            int[][] arr = new int[row][3];
+            for (int i = 0; i < row; i++) {
+                arr[i] = stringToArr(sc.nextLine());
             }
-            list.clear();
-            result(arr,0,second,0,0);
-            Collections.sort(list);
-            System.out.println(list.get(0));
+            System.out.println(result(arr));
         }
     }
 
-    public static void result(int[][] arr, int total, int second, int index, int tmp) {
-        if (index == second) {
-            list.add(total);
-            return;
+    public static int result(int[][] arr) {
+        int[][] dp = new int[arr.length][3];
+        for (int i = 0; i < 3; i++) {
+            dp[0][i] = arr[0][i];
         }
-        for (int i = 1; i < second+1; i++) {
-            if (!flag[i]) {
-                flag = new boolean[second+2];
-                flag[i] = true;
-                flag[i-1] = true;
-                flag[i+1] = true;
-                for (int j = 0; j < 3; j++) {
-                    buy[j] = true;
-                    result(arr,total+arr[i-1][j], second, index+1, j);
-                    buy[j] = false;
-                }
-            } else {
-                flag = new boolean[second+2];
-                flag[i] = true;
-                flag[i-1] = true;
-                flag[i+1] = true;
-                for (int j = 0; j < 3; j++) {
-                    if (!buy[j]) {
-                        //buy = new boolean[3];
-                        buy[j] = true;
-                        buy[tmp] = false;
-                        result(arr,total+arr[i-1][j], second, index+1,j);
-                        buy[j] = false;
-                        buy[tmp] = true;
-                    }
-                }
+        for (int i = 1; i < dp.length; i++) {
+            for (int j = 0; j < 3; j++) {
+                dp[i][j] = Math.min(dp[i-1][(j+1)%3],dp[i-1][(j+2)%3]) + arr[i][j];
             }
         }
+        int res = Integer.MAX_VALUE;
+        for (int i = 0; i < 3; i++) {
+            res = Math.min(res,dp[arr.length-1][i]);
+        }
+        return res;
+    }
+
+    public static int[] stringToArr(String s) {
+        String[] split = s.split(" ");
+        int[] arr = new int[split.length];
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = Integer.parseInt(split[i]);
+        }
+        return arr;
     }
 }
